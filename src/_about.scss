@@ -1,0 +1,22 @@
+.main  {
+    background: $light;
+    display: grid;
+    text-align: center;
+
+   .container h1 {
+    color: $lime;
+    font-weight: bolder;
+    font-size: 3rem;
+   }
+
+    .a {
+       background-color: $lime;
+    }
+
+    .container {
+        width: 100%;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+ }
+
+    
